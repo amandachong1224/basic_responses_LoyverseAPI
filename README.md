@@ -6,3 +6,9 @@ Dependance of Library from
 https://github.com/siarheipashkevich/loyverse-sdk
 
 Can use above library to retrieve data.
+
+# Usage
+
+Push notification of stock levels using WhatsApp API using 3rd Party
+
+MayTAPI.
